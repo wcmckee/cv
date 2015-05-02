@@ -1,11 +1,13 @@
 
 # coding: utf-8
 
-# <h3>William Mckee</h3>
+# <h3>William C Mckee</h3>
 # 
 # Email: will (at) artcontrol.me
 # 
 # Phone: 0223721475
+# 
+# Concept art, 3d modeling, video game development, earlychildhood education, open-source software development, photography, long walks, cooking...
 # 
 # <h3>Education</h3>
 # 
@@ -13,7 +15,7 @@
 # 
 # Studied Drawing and Design. Palmerston North School Of Design. October 2008 - July 2010.
 # 
-# Studied Applied Visual Imaging. Palmerston North UCOL. 2007 - 2009.
+# Studied Applied Visual Imaging. Palmerston North UCOL. 2008 - 2009.
 # 
 # NCEA Level 2. Horowhenua Collage, Levin. 2002 - 2006
 # 
@@ -25,17 +27,17 @@
 # 
 # Casual Life modeling. The Learning Connection. 2011 - 2012.
 # 
-# Mail Delivery. Kiwi Mail. 2004
+# Mail Delivery. Kiwi Mail. 2005.
 # 
 # <h3>Volunteer</h3>
 # 
-# linux.conf.au. January 10-16 2015. AV team - recording speakers talks. http://linux.conf.au/
+# linux.conf.au. January 10-16 2015. AV team - recording talks. http://linux.conf.au/
 # 
 # Te Whare O Te Ata (Fairfield Community Centre). Feburary 2014 - September 2014. Working with children on IT and art. Learning Linux sysadmin. http://fairfield.org.nz/
 # 
 # Python Weekly Classes. 2014. Te Whare O Te Ata. Wednesday night programming and computer help.
 # 
-# Whaihanga Early Learning Centre. 2014. Helper. Areas of note: art and building with blocks. Assistence with morning walks. 
+# Whaihanga Early Learning Centre. 2014. Volunteer helper. Art, building with blocks and morning walks. 
 # 
 # SeniorNet, Levin. 2013. Helped eldely with their digital devices.  
 # 
@@ -45,13 +47,13 @@
 # 
 # linux.conf.au. Jan 2015. Lightning Talk at astro miniconf regarding IPython Notebook. http://bit.ly/15zGtNC
 # 
-# Hamilton Computer Club. 2013 - 2014. Involvment and speaker Feb 2014 on Python programming language.
+# Hamilton Computer Club. 2013 - 2014. Member and speaker Feb 2014 on Python programming language.
 # 
 # Hamilton Linux Users Group. 2014. Speaker on GoDot Game Engine.  
 # 
 # Kiwi PyCon 2013. Lightning Talk regarding lastfm api. http://bit.ly/18dgBJb
 # 
-# <h3>Personal Projects</h3>
+# <h3>Projects</h3>
 # 
 # ArtControl.me: The Art Of William Mckee. 2010 - Ongoing. Blog for uploading and discussing artwork. Pencil Drawing, Digital Painting. Life drawing, portraits, street scenes, landscapes. http://artcontrol.me CC:BY licence.
 # 
@@ -59,10 +61,5 @@
 # 
 # FreshFigure Photography. 2012 - Ongoing. Stock Photography site to host photography. Street and landscapes. Photography used by Horowhenua Mail, March 2013. http://freshfigure.com/art CC:BY licence.
 # 
-# WCMCKEE: Web and Software Development. 2011 - Ongoing. Pythong programming. Web scalping, data processing, website generation. Notable sites/scripts generatored include http://getsdrawn.com and LCA Signin (digital signin/out system). http://wcmckee.com MIT licence
+# WCMCKEE: Web and Software Development. 2011 - Ongoing. Python programming. Web scalping, data processing, website generation, point of sale, cybercafe managment system. Sites generatored include http://getsdrawn.com and LCA Signin (digital signin/out system). http://wcmckee.com MIT licence.
 # 
-
-# In[ ]:
-
-
-
